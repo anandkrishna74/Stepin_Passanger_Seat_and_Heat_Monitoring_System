@@ -32,4 +32,4 @@ and if the passanger exist then our system starts the functionality.
 ## Contributors List and Summary
 |PS no. |  Name   |    Features    |
 |-------|---------|----------------|
-| 99006257 | Sanjay Netagal | Passanger Seat and Heat Monitoring System |  
+| 99006257 | Sanjay Netagal | Passenger Seat and Heat Monitoring System |  
