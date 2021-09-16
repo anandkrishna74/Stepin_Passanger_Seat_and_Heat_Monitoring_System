@@ -20,7 +20,7 @@ and if the passanger exist then our system starts the functionality.
 
 ## Git Codacy Badge
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0331ee08be5f49df9aa17edb570bb842)](https://www.codacy.com/gh/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sultanbepari/STEPin_Seat_Temperature_Monitoring_System&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a4737762c5b146f3b3c0cabe8c71334d)](https://www.codacy.com/gh/sanjaynetagal/Stepin_Passanger_Seat_and_Heat_Monitoring_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sanjaynetagal/Stepin_Passanger_Seat_and_Heat_Monitoring_System&amp;utm_campaign=Badge_Grade)
 
 ## Other Badges
 
