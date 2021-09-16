@@ -1,7 +1,7 @@
 # Test Plans
 
 |  Test ID | Description  | Input  | Output  |
-|---|---|---|---|---|
+|---|---|---|---|
 | TID_01  | Is person enters or exist  | switch=1| LED ON|
 | TID_02  | Is person not enters or exist  | switch=0|LED OFF|
 | TID_03  | Temperature request | Temp=0| Heater Off |
