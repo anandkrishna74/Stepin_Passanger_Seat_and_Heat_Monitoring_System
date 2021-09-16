@@ -20,11 +20,11 @@ monitoring the passanger's existance and Heat Monitoring and Displaying.
 
 ## SWOT Analysis- Strengths, and Weakness, Opportunities Threats
 ### Strengths
-- User Friendly.
-- Easy to modify the temperature value.
-- The system is robust.
-- Low cost.
-- Modular Based Programs.
+-  User Friendly.
+-  Easy to modify the temperature value.
+-  The system is robust.
+-  Low cost.
+-  Modular Based Programs.
 
 ### Weakness
 - It's only applicable for the countries which are having having low temperature.
